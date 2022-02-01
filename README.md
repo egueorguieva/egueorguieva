@@ -1,4 +1,4 @@
-### Emma S Gueorguieva
+## Emma S Gueorguieva
 
 *Third year undergraduate at the University of Texas at Austin interested in Social Psychology, Data Science, Text Analysis, and User Research*
 
