@@ -4,7 +4,8 @@
 [![](https://img.shields.io/badge/Gmail-emmagueorguieva%40utexas.edu-red)](mailto:emmagueorguieva@utexas.edu)
 [![](https://img.shields.io/badge/HackerRank-emmagueorguieva-brightgreen)](https://www.hackerrank.com/emmagueorguieva?hr_r=1)
 
-![aboutMe](https://user-images.githubusercontent.com/98079225/152921595-47a7b491-f077-4af3-9588-09065e9d624e.png)
+![aboutMe](https://user-images.githubusercontent.com/98079225/152923233-ffae6763-61c3-4c36-b455-0d867e24366c.png)
+
 
 
 ## About Me:
